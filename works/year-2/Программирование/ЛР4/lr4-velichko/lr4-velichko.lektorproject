@@ -1,0 +1,5 @@
+[project]
+name = lr4-velichko
+
+[servers.ghpages]
+target = ghpages+https://arseniiarsenii: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@arseniiarsenii/prog-sem4-lr4-lektor

@@ -1,0 +1,27 @@
+title: "Портфолио Величко Арсения Александровича"
+description: "Портфолио студента 4 курса 1 группы специальности «Информатика и вычислительная техника»"
+baseurl: ""
+url: ""
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - works/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+
+lang: ru
+
+author:
+  name: "Величко Арсений Александрович"
+
+show_excerpts: false 

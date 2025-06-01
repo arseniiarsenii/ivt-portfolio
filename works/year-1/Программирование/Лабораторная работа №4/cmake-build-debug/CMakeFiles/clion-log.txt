@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/user/Документы/Документы_gdrive/Самостоятельные и лабораторные работы/Программирование/Лабораторная работа №4 Select CMakeLists.txt

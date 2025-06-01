@@ -1,0 +1,3 @@
+/home/user/Документы/Документы_gdrive/Самостоятельные и лабораторные работы/Программирование/Лабораторная работа №4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/Документы/Документы_gdrive/Самостоятельные и лабораторные работы/Программирование/Лабораторная работа №4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/Документы/Документы_gdrive/Самостоятельные и лабораторные работы/Программирование/Лабораторная работа №4/cmake-build-debug/CMakeFiles/__4.dir
