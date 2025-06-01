@@ -11,7 +11,7 @@ title: Главная
 
 ## Материалы по курсам
 
-- [1 курс](year-1)
-- [2 курс](year-2)
-- [3 курс](year-3)
-- [4 курс](year-4) 
+- [1 курс]({{ site.baseurl }}/year-1)
+- [2 курс]({{ site.baseurl }}/year-2)
+- [3 курс]({{ site.baseurl }}/year-3)
+- [4 курс]({{ site.baseurl }}/year-4) 

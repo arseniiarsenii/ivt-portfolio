@@ -1,11 +1,11 @@
 title: "Портфолио Величко Арсения Александровича"
 description: "Портфолио студента 4 курса 1 группы специальности «Информатика и вычислительная техника»"
-baseurl: ""
-url: ""
+baseurl: "/ivt-portfolio"
+url: "https://arseniiarsenii.github.io"
 
 markdown: kramdown
 highlighter: rouge
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
