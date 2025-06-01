@@ -14,4 +14,12 @@ title: Главная
 - [1 курс]({{ site.baseurl }}/year-1)
 - [2 курс]({{ site.baseurl }}/year-2)
 - [3 курс]({{ site.baseurl }}/year-3)
-- [4 курс]({{ site.baseurl }}/year-4) 
+- [4 курс]({{ site.baseurl }}/year-4)
+
+## Портфолио по практикам
+
+- [Производственная практика 2 семестр](https://github.com/arseniiarsenii/ep-1-tasks)
+- [Производственная практика 3 семестр](https://git.herzen.spb.ru/200404/practice-3-sem)
+- [Производственная практика 6 семестр](https://git.herzen.spb.ru/200404/ucheb-pract-sem6)
+- [Производственная практика 7 семестр](https://git.herzen.spb.ru/200404/practice-7-sem)
+- [Производственная практика 8 семестр](https://git.herzen.spb.ru/200404/practice-8-sem)
