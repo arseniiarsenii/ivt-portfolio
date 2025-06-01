@@ -28,4 +28,4 @@ title: 3 курс
 
 ## Курсовая работа
 
-- [Курсовая работа 3 курс]({{ site.baseurl }}/works/year-3/Курсовая_работа_3_курс_Величко_Арсений.pdf) 
+- [Курсовая работа 3 курс](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Курсовая_работа_3_курс_Величко_Арсений.pdf) 

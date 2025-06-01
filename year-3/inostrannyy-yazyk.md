@@ -7,4 +7,4 @@ title: Иностранный язык
 
 ## Работы
 
-- [Иностранный язык](../works/year-3/Иностранный%20язык) 
+- [Иностранный язык](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Иностранный%20язык) 

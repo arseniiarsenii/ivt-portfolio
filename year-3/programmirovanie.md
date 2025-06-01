@@ -7,4 +7,4 @@ title: Программирование
 
 ## Работы
 
-- [Программирование](../works/year-3/Программирование) 
+- [Программирование](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Программирование) 

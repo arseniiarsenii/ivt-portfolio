@@ -7,12 +7,12 @@ title: Основы бизнес-информатики
 
 ## Работы
 
-- [lab1](../works/year-3/Основы%20бизнес-информатики/lab1)
-- [lab2](../works/year-3/Основы%20бизнес-информатики/lab2)
-- [lab3](../works/year-3/Основы%20бизнес-информатики/lab3)
-- [lab4](../works/year-3/Основы%20бизнес-информатики/lab4)
-- [lab5](../works/year-3/Основы%20бизнес-информатики/lab5)
-- [lab6](../works/year-3/Основы%20бизнес-информатики/lab6)
-- [lab6-7](../works/year-3/Основы%20бизнес-информатики/lab6-7)
-- [lab7](../works/year-3/Основы%20бизнес-информатики/lab7)
-- [lab8-9](../works/year-3/Основы%20бизнес-информатики/lab8-9) 
+- [lab1](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab1)
+- [lab2](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab2)
+- [lab3](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab3)
+- [lab4](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab4)
+- [lab5](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab5)
+- [lab6](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab6)
+- [lab6-7](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab6-7)
+- [lab7](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab7)
+- [lab8-9](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Основы%20бизнес-информатики/lab8-9) 

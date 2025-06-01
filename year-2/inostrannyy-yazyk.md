@@ -7,7 +7,7 @@ title: Иностранный язык
 
 ## Работы
 
-- [ДЗ](../works/year-2/Иностранный%20язык/ДЗ)
-- [КР](../works/year-2/Иностранный%20язык/КР)
-- [Перевод](../works/year-2/Иностранный%20язык/Перевод)
-- [Тесты](../works/year-2/Иностранный%20язык/Тесты) 
+- [ДЗ](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-2/Иностранный%20язык/ДЗ)
+- [КР](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-2/Иностранный%20язык/КР)
+- [Перевод](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-2/Иностранный%20язык/Перевод)
+- [Тесты](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-2/Иностранный%20язык/Тесты) 
