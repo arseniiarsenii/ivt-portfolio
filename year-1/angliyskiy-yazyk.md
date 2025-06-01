@@ -7,7 +7,7 @@ title: Английский язык
 
 ## Работы
 
-- [Classwork](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-1/Английский%20язык/Classwork)
-- [Homework](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-1/Английский%20язык/Homework)
-- [Перевод](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-1/Английский%20язык/Перевод)
-- [Сочинения](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-1/Английский%20язык/Сочинения) 
+- [Classwork]({{ site.works_url }}/year-1/Английский%20язык/Classwork)
+- [Homework]({{ site.works_url }}/year-1/Английский%20язык/Homework)
+- [Перевод]({{ site.works_url }}/year-1/Английский%20язык/Перевод)
+- [Сочинения]({{ site.works_url }}/year-1/Английский%20язык/Сочинения) 

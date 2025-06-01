@@ -7,4 +7,4 @@ title: Сети и телекоммуникации
 
 ## Работы
 
-- [Сети и телекоммуникации](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Сети%20и%20телекоммуникации) 
+- [Сети и телекоммуникации]({{ site.works_url }}/year-3/Сети%20и%20телекоммуникации) 

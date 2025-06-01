@@ -7,4 +7,4 @@ title: Веб проектирование
 
 ## Работы
 
-- [herzen-web-portfolio](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-2/Веб%20проектирование/herzen-web-portfolio) 
+- [herzen-web-portfolio]({{ site.works_url }}/year-2/Веб%20проектирование/herzen-web-portfolio) 

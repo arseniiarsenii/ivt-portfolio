@@ -7,4 +7,4 @@ title: Инженерная графика
 
 ## Работы
 
-- [Инженерная графика](https://github.com/arseniiarsenii/ivt-portfolio/tree/main/works/year-3/Инженерная%20графика) 
+- [Инженерная графика]({{ site.works_url }}/year-3/Инженерная%20графика) 
