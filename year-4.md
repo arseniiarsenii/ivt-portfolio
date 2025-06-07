@@ -14,4 +14,5 @@ title: 4 курс
 - [Научно-исследовательский проект]({{ site.baseurl }}/year-4/nauchno-issledovatelskiy-proekt)
 - [ОЭОС (Курсовая работа)]({{ site.baseurl }}/year-4/oeos-kursovaya-rabota)
 - [Программирование]({{ site.baseurl }}/year-4/programmirovanie)
-- [Управление программными проектами]({{ site.baseurl }}/year-4/upravlenie-programmnymi-proektami) 
+- [Управление программными проектами]({{ site.baseurl }}/year-4/upravlenie-programmnymi-proektami)
+- [Языки написания спецификаций](https://git.herzen.spb.ru/200404/yans-task-2)
